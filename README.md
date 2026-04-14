@@ -1,20 +1,30 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# 🚀 MY AI App
 
-# Run and deploy your AI Studio app
+A modern AI-powered application built with Node.js and Gemini API.
 
-This contains everything you need to run your app locally.
+---
 
-View your app in AI Studio: https://ai.studio/apps/8d5505f2-a91b-4db7-bb5b-341a7cb3af78
+## 📌 Features
 
-## Run Locally
+- AI-powered responses using Gemini API
+- Fast and responsive UI
+- Easy setup and deployment
+- Secure environment variable handling
 
-**Prerequisites:**  Node.js
+---
 
+## ⚙️ Tech Stack
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+- Node.js
+- Express.js (if used)
+- Gemini API
+- HTML/CSS/JavaScript (or your frontend framework)
+
+---
+
+## 📦 Installation
+
+### 1. Clone the repository
+```bash
+git clone https://github.com/Muhammad-Rashid-172002/mydiet-privacy-policy.git
+cd your-repo-name
