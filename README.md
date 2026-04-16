@@ -1,4 +1,4 @@
-# 🚀 MY AI App
+# 🚀 MYDiet App
 
 A modern AI-powered application built with Node.js and Gemini API.
 
@@ -27,4 +27,3 @@ A modern AI-powered application built with Node.js and Gemini API.
 ### 1. Clone the repository
 ```bash
 git clone https://github.com/Muhammad-Rashid-172002/mydiet-privacy-policy.git
-cd your-repo-name
